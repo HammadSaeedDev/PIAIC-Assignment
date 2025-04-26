@@ -123,6 +123,3 @@ N = 12
 EMI = P * R * (1 + R) ** N / ((1 + R) ** N - 1)
 
 print(f"Monthly EMI: ₹{EMI:.2f}")
-
-
-#hammad saeed
