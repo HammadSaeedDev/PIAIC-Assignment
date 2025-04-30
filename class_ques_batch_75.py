@@ -90,5 +90,3 @@ bmi = weight / (height ** 2)
 print("BMI is:", round(bmi , 2))
 
 
-
-# hammad saeed
