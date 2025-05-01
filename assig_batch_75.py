@@ -1,5 +1,7 @@
 # Quesstion # 01
-
+print("==============================")
+print("QUESTION NO 1")
+print("\n")
 Principle = 5000
 Rate = 8
 Time = 1
@@ -13,6 +15,9 @@ print("Final Amount: $", round(Amount, 2))
 print("")
 
 # Quesstion # 02
+print("==============================")
+print("QUESTION NO 2")
+print("\n")
 
 radius = 7
 height = 10
@@ -20,6 +25,9 @@ tsa = 2*3.1416*radius**2 + 2*3.1416*radius*height
 print("total surface area of a cylinder: ",tsa)
 
 # Quesstion # 03
+print("==============================")
+print("QUESTION NO 3")
+print("\n")
 
 hours = 2
 minutes = 46
@@ -28,7 +36,9 @@ total_seconds = (hours * 3600) + (minutes * 60) + seconds
 print("Total seconds" , total_seconds)
 
 # Quesstion # 04``
-
+print("==============================")
+print("QUESTION NO 4")
+print("\n")
 total_bill = 2750
 tip_percent = 10 # in percent
 number_of_people = 5 
@@ -40,6 +50,9 @@ amount_per_person = total_with_tip / number_of_people
 print("Each person pays: ₹", amount_per_person)
 
 # Quesstion # 05
+print("==============================")
+print("QUESTION NO 5")
+print("\n")
 
 subjects = {
     "Math": (80, 3),
@@ -59,6 +72,9 @@ weighted_average = weighted_sum / total_weight
 print("Weighted Average Marks:", weighted_average)
 
 # Quesstion # 06
+print("==============================")
+print("QUESTION NO 6")
+print("\n")
 
 speed_kmph = 72
 distance_m = 500
@@ -71,6 +87,9 @@ print("Speed in m/s:", speed_mps)
 print("Time to cover 500 meters:", time_seconds, "seconds")
 
 # Quesstion # 07
+print("==============================")
+print("QUESTION NO 7")
+print("\n")
 
 original_price = 1000
 first_discount = 10  # in percent
@@ -88,6 +107,9 @@ print("Total amount saved:", amount_saved)
 print("Effective discount %:", effective_discount_percent)
 
 # Quesstion # 08
+print("==============================")
+print("QUESTION NO 8")
+print("\n")
 
 numbers = [100, 200, 300, 400, 500]
 
@@ -99,6 +121,9 @@ print("Increased numbers:", increased_numbers)
 print("Average after 10% increase:", round(average, 2))
 
 # Quesstion # 09
+print("==============================")
+print("QUESTION NO 9")
+print("\n")
 
 total_seconds = 10000
 
@@ -114,6 +139,9 @@ print(f"{total_seconds} seconds is equal to {hours} hours, {minutes} minutes, an
 
 
 # Quesstion # 10
+print("==============================")
+print("QUESTION NO 10")
+print("\n")
 
 P = 100000 
 annual_rate = 12
